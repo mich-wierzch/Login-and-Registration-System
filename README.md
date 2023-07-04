@@ -23,4 +23,4 @@ private final String url = "jdbc:postgresql://localhost:5432/Users";\
  private final String user = "your-username";\
  private final String password = "your-password";
 
-6. uild and run the project.
+5. Build and run the project.
